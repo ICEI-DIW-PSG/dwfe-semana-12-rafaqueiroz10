@@ -5,11 +5,14 @@ Nesta atividade, vamos desenvolver um sistema simples de cadastro de funcionári
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Rafael Queiroz Vilaça
+- Matricula: 928776
 
 ## Prints do trabalho
 
 <<  COLOQUE A IMAGEM - CARDS DE PELO MENOS 5 FUNCIONÁRIOS CADASTRADOS - AQUI >>
+![Imagem dos cinco funcionários](public/print-cards.png)
+
 
 <<  COLOQUE A IMAGEM - LOCALSTORAGE NO NAVEGADOR - AQUI >>
+![LocalStorage](public/print-local-storage.png)
